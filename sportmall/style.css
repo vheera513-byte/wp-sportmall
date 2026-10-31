@@ -1,0 +1,24 @@
+/*
+Theme Name: Sportmall
+Theme URI: https://github.com/vheera513-byte/wp-sportmall
+Author: Sportmall
+Author URI: https://github.com/vheera513-byte/wp-sportmall
+Description: قالب فروشگاهی اسپرت‌مال؛ یک قالب وردپرسی/ووکامرسی راست‌به‌چپ با طراحی ادیتوریال ورزشی، صفحه اصلی کامل، فروشگاه، محصول، سبد خرید، تسویه‌حساب، حساب کاربری، ژورنال، استوری مشتریان و ست‌های ورزشی. Styles are loaded from assets/css.
+Version: 1.0.0
+Requires at least: 6.4
+Tested up to: 6.8
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: sportmall
+Domain Path: /languages
+Tags: e-commerce, rtl-language-support, custom-logo, custom-menu, custom-colors, featured-images, threaded-comments, translation-ready, right-sidebar, wide-blocks, editor-style
+WC requires at least: 8.0
+WC tested up to: 10.0
+*/
+
+/*
+ * The compiled design system lives in assets/css/base.css.
+ * Page compositions live in assets/css/pages.css and assets/css/woocommerce.css.
+ * This file only carries the WordPress theme header, as required by WordPress.
+ */
