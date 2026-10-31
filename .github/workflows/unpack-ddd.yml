@@ -1,6 +1,7 @@
 name: Extract DDD archive
 
 on:
+  workflow_dispatch:
   push:
     branches: [main]
     paths:
@@ -38,11 +39,10 @@ jobs:
               z.extractall(".")
           print(f"Extracted {sum(1 for p in target.rglob('*') if p.is_file())} files")
           PY
-      - name: Commit extracted files and remove temporary workflow
+      - name: Commit extracted files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          rm -f .github/workflows/unpack-ddd.yml
-          git add DDD .github/workflows/unpack-ddd.yml
+          git add DDD
           git commit -m "Extract DDD archive"
           git push origin main
