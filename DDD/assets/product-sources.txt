@@ -1,0 +1,11 @@
+product-pegasus.jpg: https://www.supersports.co.th/cdn/shop/files/NI083SH575ECTH-0.jpg?v=1739352990&width=800
+product-tee.jpg: https://assets.adidas.com/images/w_600,f_auto,q_auto/afb72885b14e4868bc8cb8bdeb6d4b4e_9366/Cool_Intensity_Tee_Black_JD8455_01_laydown.jpg
+product-leggings.jpg: https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/2136ceac-319c-4de5-b528-617dc5104be5/one-leggings-de-talle-alto-PVxDFV.png
+product-bag.jpg: https://cdn.webshopapp.com/shops/319478/files/424500475/nike-brasilia-95-training-duffel-l-black.jpg
+vazirmatn.woff2: https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/fonts/webfonts/Vazirmatn%5Bwght%5D.woff2
+hero-motion.jpg: https://images.unsplash.com/photo-1538805060514-97d9cc17730c?auto=format&fit=crop&w=1920&q=85
+hero-strength.jpg: https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=1920&q=85
+hero-adventure.jpg: https://images.unsplash.com/photo-1546483875-ad9014c88eba?auto=format&fit=crop&w=1920&q=85
+Product names and prices are illustrative catalog content for the local homepage prototype.
+product-swoosh.png: https://static.nike.com/a/images/c_limit%2Cw_592%2Cf_auto/t_product_v1/e3026946-d893-4db4-8bea-86182e22a040/AS%2BW%2BNK%2BSWSH%2BMED%2BSPT%2BBRA.png
+product-miler.png: https://static.nike.com/a/images/c_limit%2Cw_592%2Cf_auto/t_product_v1/3c9e6c25-9171-4668-98d2-e430705f6be2/M%2BNK%2BDF%2BMILER%2BSS.png
